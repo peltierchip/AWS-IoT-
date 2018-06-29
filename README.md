@@ -5,6 +5,9 @@ For a SUTD project thanks to AWS for the buttons and server credits(Very good cl
 Codes for term 8 design project. 
 All codes for button,Pi,Pi cam.
 
+Youtube video for demo https://www.youtube.com/watch?v=8_AONgRIckM&t=24s 
+Apologies for the editing and sending the pic to email. Home Wifi connection was bad in the living room.
+
 For AWS IoT button, purchase here at https://www.amazon.com/AWS-IoT-Button-2nd-Generation/dp/B01KW6YCIM/ref=sr_1_1?ie=UTF8&qid=1530251759&sr=8-1&keywords=aws+iot+button+2nd+generation
 
 This programmable Wi-Fi button is designed to help developers learn how to use AWS IoT, AWS Lambda, DynamoDB, Simple Notification Service and other Amazon Web Services.
